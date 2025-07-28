@@ -10,6 +10,7 @@ module.exports = {
         sans: ['Inter', 'ui-sans-serif', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'sans-serif'],
       },
       colors: {
+        border: 'rgb(229, 231, 235)', // gray-200
         primary: {
           50: '#f0f9ff',
           100: '#e0f2fe',
